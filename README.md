@@ -1,1 +1,2 @@
 # Sudoku-Solver
+Recursive soduku solver implemented in Java. Algorithm relies on backtrackng to fidn the correct solution, making it far more efficient than brute force. Try it with this board: 85...24..72......9..4.........1.7..23.5...9...4...........8..7..17..........36.4. (considered to be one of the world's hardest sudoku puzzles, as per https://usatoday30.usatoday.com/news/offbeat/2006-11-06-sudoku_x.htm)
